@@ -1,0 +1,10 @@
+name: Captain
+version: '1.0-SNAPSHOT'
+main: captain.captain.Captain
+api-version: 1.16
+authors: [ Nultake ]
+description: A Captain Plugin
+commands:
+  comcaptain:
+    description: to tp
+    usage: /comcaptain

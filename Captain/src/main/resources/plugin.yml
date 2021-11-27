@@ -1,0 +1,10 @@
+name: Captain
+version: '${project.version}'
+main: captain.captain.Captain
+api-version: 1.16
+authors: [ Nultake ]
+description: A Captain Plugin
+commands:
+  comcaptain:
+    description: to tp
+    usage: /comcaptain
